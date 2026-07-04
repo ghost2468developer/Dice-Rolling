@@ -1,4 +1,3 @@
-// Die.js File
 import React, {Component} from 'react'
 import './Die.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
